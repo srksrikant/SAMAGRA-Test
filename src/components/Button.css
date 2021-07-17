@@ -1,0 +1,7 @@
+.button-div{
+    text-align: center;
+    justify-content: center;
+    border: 1px solid black;
+    width:50%;
+    margin: auto;
+}
